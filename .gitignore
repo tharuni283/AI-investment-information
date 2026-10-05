@@ -1,0 +1,4 @@
+investmentai/
+__pycache__/
+.env
+.streamlit/
